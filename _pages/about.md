@@ -27,10 +27,18 @@ Outside of engineering, I play in the Collegiate Chess League and enjoy 20th-cen
   </article>
 
   <article class="project-item">
+    <p><a class="project-name" href="https://github.com/fawzmehfil/zsc-identifiability">BeforeCommit</a>: A replay-first benchmark for evaluating whether agents can identify how to coordinate with unfamiliar teammates before an important decision becomes costly to reverse. It validates decision-relevant identifiability using frozen policies in cooperative tasks.</p>
+  </article>
+
+  <article class="project-item">
     <p><a class="project-name" href="https://github.com/fawzmehfil/CFR-Poker-Bot">CFR-Poker-Bot</a>: A local-first research toolkit for building and benchmarking heads-up no-limit Texas Hold’em agents. It supports the full loop from training strategies with counterfactual regret minimization to evaluating them in duplicate matches.</p>
   </article>
 
   <article class="project-item">
     <p><a class="project-name" href="https://github.com/fawzmehfil/Helix">Helix</a>: An execution engine that makes repeated LLM workflows faster by reusing work when inputs have not changed. It models tasks as a graph and reruns only the affected steps.</p>
+  </article>
+
+  <article class="project-item">
+    <p><a class="project-name" href="https://github.com/fawzmehfil/Janus">Janus</a>: An outcome-based benchmark for evaluating economic-policy decisions under causal ambiguity. Models act as regulators in simulated markets and are scored by the consequences of their interventions rather than an LLM judge.</p>
   </article>
 </div>
