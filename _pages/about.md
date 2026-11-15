@@ -19,15 +19,15 @@ Outside of engineering, I play in the Collegiate Chess League and enjoy 20th-cen
 
 <div class="projects-list">
   <article class="project-item">
-    <p><a class="project-name" href="https://github.com/fawzmehfil/ML-Keeper">ML-Keeper</a>: An interactive Unity benchmark for training and evaluating learned goalkeepers in football penalty shootouts. It pairs reproducible experiments with a playable demo.</p>
-  </article>
-
-  <article class="project-item">
     <p><a class="project-name" href="https://github.com/fawzmehfil/Voyager">Voyager</a>: A cooperative survival environment for studying how decentralized RL agents coordinate under partial information. Agents must work together across procedurally generated islands to complete a shared rescue objective.</p>
   </article>
 
   <article class="project-item">
     <p><a class="project-name" href="https://github.com/fawzmehfil/zsc-identifiability">BeforeCommit</a>: A replay-first benchmark for evaluating whether agents can identify how to coordinate with unfamiliar teammates before an important decision becomes costly to reverse. It validates decision-relevant identifiability using frozen policies in cooperative tasks.</p>
+  </article>
+
+  <article class="project-item">
+    <p><a class="project-name" href="https://github.com/fawzmehfil/ML-Keeper">ML-Keeper</a>: An interactive Unity benchmark for training and evaluating learned goalkeepers in football penalty shootouts. It pairs reproducible experiments with a playable demo.</p>
   </article>
 
   <article class="project-item">
