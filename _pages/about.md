@@ -9,9 +9,7 @@ redirect_from:
 
 I’m a computer science student at McMaster University and a former software engineering intern at [Fastlane](https://usefastlane.ai/) in San Francisco.
 
-I’ve worked across full-stack and forward-deployed engineering at several startups, building products from early ideas through implementation. My technical interests include multi-agent reinforcement learning, designing evaluations and interactive environments for agents, and learning under partial observability.
-
-I do my best work on small, high-energy teams where people move quickly and take ownership. I’m especially drawn to early-stage startups with hard problems, direct communication, and little process for its own sake.
+I’ve worked across full-stack and forward-deployed engineering at several startups. I do my best work on small, high-energy teams where people move quickly and take ownership. I’m especially drawn to early-stage startups with hard problems, direct communication, and little **process** for its own sake.
 
 Outside of engineering, I play in the Collegiate Chess League and enjoy 20th-century history, poker, speedcubing, and weightlifting.
 
